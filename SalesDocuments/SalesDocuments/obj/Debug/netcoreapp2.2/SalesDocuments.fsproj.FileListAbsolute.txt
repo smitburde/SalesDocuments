@@ -1,0 +1,10 @@
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\bin\Debug\netcoreapp2.2\SalesDocuments.deps.json
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\bin\Debug\netcoreapp2.2\SalesDocuments.runtimeconfig.json
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\bin\Debug\netcoreapp2.2\SalesDocuments.runtimeconfig.dev.json
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\bin\Debug\netcoreapp2.2\SalesDocuments.dll
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\bin\Debug\netcoreapp2.2\SalesDocuments.pdb
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\obj\Debug\netcoreapp2.2\SalesDocuments.fsprojAssemblyReference.cache
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\obj\Debug\netcoreapp2.2\SalesDocuments.AssemblyInfoInputs.cache
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\obj\Debug\netcoreapp2.2\SalesDocuments.AssemblyInfo.fs
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\obj\Debug\netcoreapp2.2\SalesDocuments.dll
+C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\obj\Debug\netcoreapp2.2\SalesDocuments.pdb

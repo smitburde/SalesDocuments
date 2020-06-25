@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileOperations.VoiceLog-Received-ThirdPartyVerification</id>
+    <version>1.0.0</version>
+    <authors>FileOperations.VoiceLog-Received-ThirdPartyVerification</authors>
+    <owners>FileOperations.VoiceLog-Received-ThirdPartyVerification</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="FileOperations" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="FSharp.Core" version="4.7.2" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\bin\Debug\netcoreapp2.2\FileOperations.VoiceLog-Received-ThirdPartyVerification.runtimeconfig.json" target="lib\netcoreapp2.2\FileOperations.VoiceLog-Received-ThirdPartyVerification.runtimeconfig.json" />
+    <file src="C:\Users\sburde\Documents\Visual Studio 2017\Projects\SalesDocuments\SalesDocuments\bin\Debug\netcoreapp2.2\FileOperations.VoiceLog-Received-ThirdPartyVerification.dll" target="lib\netcoreapp2.2\FileOperations.VoiceLog-Received-ThirdPartyVerification.dll" />
+  </files>
+</package>
